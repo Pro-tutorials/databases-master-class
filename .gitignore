@@ -1,0 +1,79 @@
+
+# Database files
+*.db
+*.sqlite
+*.sql
+
+# Database backups
+*.bak
+*.dump
+
+# Database migration files
+*.migration
+
+# Database configuration files
+database.yml
+config/database.yml
+
+# Database logs
+logs/
+*.log
+
+# Development-specific files
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# SQL Server
+*.mdf
+*.ldf
+
+# MySQL
+*.frm
+*.ibd
+*.myd
+*.myi
+*.mysql_history
+
+# PostgreSQL
+*.pgdata
+*.pgdump
+
+# SQLite
+*.sqlite3
+*.sqlite-journal
+
+# MongoDB
+*.mongodb
+*.mongodump
+*.mongoexport
+*.mongorestore
+
+# Redis
+*.rdb
+
+# CockroachDB
+*.cockroachdb
+
+# CouchDB
+*.couch
+*.couch.*
